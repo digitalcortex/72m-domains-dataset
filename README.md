@@ -1,6 +1,6 @@
 # Registered domains from Common Crawl
 
-72,476,235 unique registered domains extracted from Common Crawl's columnar index (cc-index).
+72,475,235 unique registered domains extracted from Common Crawl's columnar index (cc-index).
 
 This dataset is useful as a seed discovery frontier for search engines and web research crawlers.
 
