@@ -2,6 +2,8 @@
 
 ~72.5M unique registered domains extracted from Common Crawl's columnar index (cc-index).
 
+This dataset is useful as a seed discovery frontier for search engines and web research crawlers.
+
 ## Snapshots included (14 crawls)
 
 | Crawl ID | Approx. period |
